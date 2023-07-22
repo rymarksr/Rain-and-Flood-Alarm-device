@@ -1,2 +1,2 @@
 # Rain-and-Flood-Alarm-device
-This project is a rain detector and a flood alarm system that could help to detect the raising water level in the households or in the community near the river or sea. 
+This project is a rain detector and flood alarm system that could assist in detecting the rising water level in homes or in the neighborhood close to the river or the sea. and will generate a warning using the LED indication, which is yellow in the case of good weather, blue in the case of rain, and red in the case of a flood. The goal of this project is to create a rain detector and flood alarm system that is more effective, reliable, and precise at warning the neighborhood.
